@@ -1,3 +1,5 @@
+__CC-BY-SA-4.0__. The canonical URL for this license is https://creativecommons.org/licenses/by-sa/4.0/.
+
 Original HTML version of this legal code is available at https://creativecommons.org/licenses/by-sa/4.0/legalcode. Plain-text version is at https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt.
 
 ## creative commons
